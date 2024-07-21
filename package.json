@@ -11,7 +11,7 @@
 },
 "repository": {
   "type": "git",
-  "url": "git+https://github.com/yourusername/video-player.git"
+  "url": "https://github.com/aryan297/ryan-video-player"
 },
 "keywords": [
   "video",
@@ -21,7 +21,7 @@
 "author": "Aryan Aman",
 "license": "MIT",
 "bugs": {
-  "url": "https://github.com/yourusername/video-player/issues"
+  "url": "https://github.com/aryan297/ryan-video-player/issues"
 },
 "homepage": "https://github.com/yourusername/video-player#readme",
 "devDependencies": {
